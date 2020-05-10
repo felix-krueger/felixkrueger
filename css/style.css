@@ -980,3 +980,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+#footer .credits2 {
+  padding-top: 3px;
+  text-align: center;
+  font-size: 11px;
+  color: #ccc;
+}
